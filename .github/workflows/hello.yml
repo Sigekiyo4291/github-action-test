@@ -1,4 +1,3 @@
-
 name: Hello
 on: push                          # イベント（プッシュ時に起動）
 jobs:                             # ジョブの定義
